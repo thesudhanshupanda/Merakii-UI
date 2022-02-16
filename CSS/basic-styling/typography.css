@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Inter:wght@200;500;600;700&family=Roboto+Serif:wght@200;400&family=Source+Code+Pro:ital,wght@1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600&display=swap");
+
+body{
+    font-family:  'Roboto Serif', sans-serif;;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  font-family: "Nunito", sans-serif;
+}
+
+.heading-1 {
+  font-size: 2rem;
+}
+.heading-2 {
+  font-size: 1.5rem;
+}
+.heading-3 {
+  font-size: 1.3rem;
+}
+.heading-4 {
+  font-size: 1.1rem;
+}
+
+.bold {
+  font-weight: 500;
+}
+.semi-bold {
+  font-weight: 400;
+}
+
+.light {
+  font-weight: 300;
+}
