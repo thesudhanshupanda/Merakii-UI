@@ -44,7 +44,7 @@ align-items: center;
     justify-content: space-between;
     margin: 5rem 0;
 }
-.next-pre-btns .a :hover{
+.next-pre-btns a:hover{
     color: var(--primary-color);
 }
 .mr-right-auto {
