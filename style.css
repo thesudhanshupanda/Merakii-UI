@@ -5,10 +5,15 @@
      /* font-family: "Roboto", sans-serif; */
 } 
 
+.tst{
+ font-weight: 900;
+ font-size: large;
+ 
+}
 
 p{
-    font-size: large;
-    font-weight: ;
+    font-size: x-large;
+    font-weight: bold;
 }
 .container {
     margin: 100px;
